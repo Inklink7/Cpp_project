@@ -1,10 +1,10 @@
 L'esame e` diviso in due parti: Programma C++, Programma utilizzando QtCreator
 
 
-
 Prima parte - C++
 
 Il progetto richiede l'implementazione di un multiset ORIDNAO di elementi generici T. Un Multiset e` un insieme di dati che non permette di memorizzare i duplicati. 
+
 
 Seconda parte - Qt
 
